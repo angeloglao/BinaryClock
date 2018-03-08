@@ -1,2 +1,2 @@
 # BinaryClock
-SE 1A Binary Clock Project
+This is my Binary Clock Project, from SE 1A.  Documentation inside!
