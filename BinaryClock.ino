@@ -1,6 +1,6 @@
 /*
  * DOCUMENTATION:
- * 'clocktoLEDs', a program for the Arduino MEGA by Angelo Lao, Anshuman Banka and Caleb Choi
+ * 'BinaryClock', a program for the Arduino MEGA by Angelo Lao, Anshuman Banka and Caleb Choi
  * Last edited on: (11/19/17)
  *
  * OVERVIEW:
